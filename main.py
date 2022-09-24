@@ -1,5 +1,4 @@
 from machine import I2C
-from core.modem import Modem
 from qwiic_keypad import QwiicKeypad
 
 import ssd1306
